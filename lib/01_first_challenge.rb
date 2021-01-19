@@ -1,3 +1,6 @@
 def first_challenge
-   epic_tragedy = {key: values}
+   epic_tragedy = {
+     montague: {},
+     capulet: {}
+   }
 end
