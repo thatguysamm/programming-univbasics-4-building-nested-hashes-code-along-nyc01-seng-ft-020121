@@ -4,5 +4,5 @@ def second_challenge
       },
     :capulet => {[:patriarch, :matriarch, :heroine, :heroine_friends]
       }}
-      epic_tragedy
+
 end
